@@ -1,0 +1,9 @@
+.splash-body{
+  background-image: url("splash.jpg")
+}
+
+.header{
+  background: white;
+  display: flex;
+  justify-content: flex-end;
+}
